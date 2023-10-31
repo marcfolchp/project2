@@ -67,3 +67,6 @@ I created a small 10-day league where I randomly made 4 teams of each league pla
 
 ## Conclusion
 I found very interesting to in-depth analyse the top 5 european leagues as this has been a recurrent topic in the past years as to where has La Liga gone after Messi and Cristiano left. I think it is safe to say that the decline of our league is obvious and, although savable, if we don't make changes this decline won't stop.
+
+### Presentation
+https://www.canva.com/design/DAFyuoB9DAg/UqCRNx1GhBUFyD5BMmyshg/edit?utm_content=DAFyuoB9DAg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
